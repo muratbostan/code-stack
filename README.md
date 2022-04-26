@@ -1,20 +1,19 @@
 
+
+
 <h1 align="center">Hi 👋, I'm Murat</h1>
 <h3 align="center">A passionate full-stack developer from Turkey</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muratbostan&label=Profile%20views&color=0e75b6&style=flat" alt="muratbostan" /> </p>
 
 
-
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=muratbostan&show_icons=true&locale=en&layout=compact" alt="muratbostan" /></p>
-<br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muratbostan&show_icons=true&locale=en" alt="muratbostan" /></p>
+<a href="https://github.com/muratbostan">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=muratbostan&show_icons=true&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=muratbostan&layout=compact&langs_count=8"/>
+</a>
 
 
 <h3 align="left">Languages and Tools:</h3>
-
 
 
 <p align="left"> <a href="https://angular.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://codeigniter.com" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
@@ -32,6 +31,3 @@
   <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
   <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
   <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> </p>
-
-
-
